@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "telemetryMessagesConnectionString": "Endpoint=sb://revostissueprocessor-dev-servicebus.servicebus.windows.net/;SharedAccessKeyName=TopicManagePolicy;SharedAccessKey=Wxq/ONHu7sYo9KfJGchgiINp5hco04er2yRN9UofhsY="
+
+  }
+}
